@@ -1,8 +1,8 @@
 # Quero contribuir com a Lista Maravilhosa
 
 1. Faça Fork do projeto
-2. Crie uma nova branch: `git checkout -b nova-branch`
-3. Commit suas mudanças: `git commit -m 'Adicionei alguma coisa'`
+2. Crie uma nova branch: `git checkout -b teste-branch`
+3. Commit suas mudanças: `git commit -m 'meu commit'`
 4. Push para a branch: `git push origin nova-branch`
 5. Abra um Pull Request
 
